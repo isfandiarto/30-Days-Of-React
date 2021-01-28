@@ -1,0 +1,19 @@
+Exercises:Level 1
+What is the importance of React Folder Structure and File Naming
+	- with the right structure and naming, it will improve code's readability, maintainability, and scalability so it will easier to work with
+How do you export file
+	- there are several ways:
+		export const funcName = () =>  //must import the file with curly braces
+		export default const funcName = () =>
+		function funcName(){} export default funcName //recommended
+		
+How do you import file
+	import funcName from "(file directory)"
+Make a component of module and export it as named or default export
+Make a component or module and import it
+Change all the components you have to different folder structure
+
+
+Exercises:Level 2
+Make a simple portfolio using the components we have created so far. Implement a dark mode by using the function we wrote on day 8 challenge.
+

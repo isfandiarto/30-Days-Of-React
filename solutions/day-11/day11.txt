@@ -1,0 +1,24 @@
+Exercises: Level 1
+What is an event?
+	event is an action or occurence recognized by the software
+What is the different between an HTML element event and React event?
+	HTML = using lowercase, have a value of string
+	React = using camelCase, returning a function (with curly braces)
+Write at least 4 keyboard events?
+	keyDown, keyUp, keyPress
+Write at least 8 mouse events?
+	onDrag, onClick, mouseDown, mouseEnter,mouseLeave, mouseMove, dblClick, 
+What are the most common mouse and keyboard events?
+	mouse = onClick
+	keyboard = keyDown/keyUp
+Write an event specific to input element?
+	<input onChange={handleChange} type="text" />
+Write an event specific to form element?
+	<form onSubmit={handleSubmit}></form>
+Display the coordinate of the view port when a mouse is moving on the body?
+	pageX and pageY
+What is the difference between onInput, onChange and onBlur?
+	onInput, onChange = basically the same, it will trigger the event if user change the element/type a value to an <input/>
+	onBlur = it will trigger the event if user leaves an input field
+Where do we put the onSubmit event ?
+	on form tag
