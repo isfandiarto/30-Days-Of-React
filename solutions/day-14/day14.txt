@@ -1,0 +1,21 @@
+Exercises: Level 1
+What is component life cycles
+	component lifecycle is proccess of mounting, updating, and unmounting of React components
+What is the purpose of life cycles
+	to show 3 stages of components life which is Mount, Update, Unmount
+What are the three stages of a component life cycle
+	Mount, Update, Unmount
+What does mounting means?
+	It's a proccess where the components first rendered
+What does updating means
+	proccess where the components gets updated because the change of props or state
+What does unmounting means?
+	It's a proccess where the components gets destroyed/ gets removed from the DOM 
+What is the most common built-in mounting life cycle method?
+	render()
+What are the mounting life cycle methods?
+	render(), constructor, componentDidMount(), getDerivedStateFromProps()
+What are the updating life cycle methods?
+	render(), getDerivedStateFromProps()shouldComponentUpdate(), componentDidUpdate()
+What is the unmounting life cycle method?
+	componentWillUnmount()
