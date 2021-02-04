@@ -1,0 +1,13 @@
+Exercises: Level 1
+What is HTTP request?
+	HTTP request is an action that request data from specified source on the internet. it will retrieve all data identified by the request url
+What are the most common HTTP requests?
+	GET and POST (?)
+What is fetch?
+	is a method that used to request data from request-url 
+What is axios?
+	react library that helps to make request from external sources
+What is the difference between fetch and axios?
+	fetch response must be converted first, while axios will return data in json format
+Do you prefer fetch to axios for make HTTP requests?
+	for now i'd like to use fetch more because im not really famiiliar with axios
